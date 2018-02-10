@@ -15,6 +15,7 @@ gem 'jquery-rails'
 gem 'devise-bootstrap-views'
 gem 'stock_quote'
 gem 'font-awesome-rails'
+gem 'stripe'
 #gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
